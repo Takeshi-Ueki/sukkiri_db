@@ -1,2 +1,6 @@
+BEGIN TRANSACTION;
+
 DELETE FROM 家計簿
- WHERE メモ = '3月の給料';
+ WHERE 日付 = '2022-02-25';
+
+COMMIT;
