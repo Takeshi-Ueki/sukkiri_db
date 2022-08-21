@@ -1,0 +1,5 @@
+BEGIN TRANSACTION;
+
+INSERT INTO 家計簿 VALUES ('2022-02-25', '居住費', '3月の家賃', 0, 85000);
+
+COMMIT;
