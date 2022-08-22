@@ -1,1 +1,1 @@
-SELECT 出勤額 FROM 家計簿;
+SELECT 出金額 FROM 家計簿;
